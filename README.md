@@ -1,10 +1,3 @@
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+ I am+Nikhil+Devasia!;&center=true&size=30">
-    </a>
-</h1>
-
 <h1 align="center">Hi 👋, I'm Nikhil Devasia</h1>
 <h3 align="center">A passionate Python developer 🐍</h3>
 
