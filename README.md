@@ -74,7 +74,7 @@
             height="40" /> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/nikhldevasia"> <img align="left"
+<p><a href="https://www.buymeacoffee.com/nikhildevasia"> <img align="left"
             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
             alt="nikhldevasia" /></a></p><br><br>
 
