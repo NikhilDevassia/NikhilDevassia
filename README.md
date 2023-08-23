@@ -21,7 +21,7 @@
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/nikhil-devasia-368392232/" height="30" width="40" /></a>
-    <a href="https://kaggle.com/https://www.kaggle.com/nikhildevasia" target="blank"><img align="center"
+    <a href="https://www.kaggle.com/nikhildevasia" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
             alt="https://www.kaggle.com/nikhildevasia" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/https://www.hackerrank.com/nikhildevasia201" target="blank"><img align="center"
