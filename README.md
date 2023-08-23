@@ -7,11 +7,11 @@
         src="https://komarev.com/ghpvc/?username=nikhildevassia&label=Profile%20views&color=0e75b6&style=flat"
         alt="nikhildevassia" /> </p>
 
-- 🔭 I’m currently working on **Object detection**
+<!-- - 🔭 I’m currently working on **Object detection** -->
 
-- 🌱 I’m currently learning **Tensor flow, Pytorch**
+<!-- - 🌱 I’m currently learning **Tensor flow, Pytorch** -->
 
-- 💬 Ask me about **Machine learning,Deep Learning,Computer vision**
+- 💬 Ask me about **Machine learning,Deep Learning,Computer vision, NLP, and AI**
 
 - 📫 How to reach me **nikhildevasia2000@gmail.com**
 
